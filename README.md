@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuxBrush
 - 👀 I’m interested in programing, art, and video games.
 - 🌱 I’m currently learning Javascript, HTML, CSS, and Kotlin.
-- 📫 How to reach me https://ko-fi.com/adhdhelper
+- 📫 You can reach me at https://ko-fi.com/adhdhelper
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R480LWW)
 
