@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LuxBrush
 - 👀 I’m interested in programing, art, and video games.
 - 🌱 I’m currently learning Javascript, HTML, CSS, and Kotlin.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://ko-fi.com/adhdhelper
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R480LWW)
 
 <!---
 LuxBrush/LuxBrush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
